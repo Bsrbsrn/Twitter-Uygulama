@@ -3,9 +3,9 @@ Twitter için bu siteyi kullanabiliriz.
 smratingtwitter.netau.net
 Filezilla ya giris için:
 
-Host: 		
-username: 	
-password: 	
+Host: 		smratingtwitter.netau.net with 
+username: 	a5035480
+password: 	Bb290713fa
 
 1.	Twitter Uygulama Olusturma (Bunu sadece uygulama yi olusturmak için kullandim kodlari denemedim.)
 	http://www.serhatakinci.com/index.php/powershell-twitter-rest-api-entegrasyonu-takipci-listesi.html
